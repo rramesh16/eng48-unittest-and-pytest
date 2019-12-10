@@ -7,9 +7,13 @@ How do you implement it?
 
 ### Unit Testing
 What is it?
+- software testing method by which individual units of 
+source code are tested to determine whether they are fit for use.
+
 What are the benefits?
 - Maintainable
--
+- Makes the process more Agile
+- Finds software bugs early 
 
 ### Tools / Frameworks for python
 
