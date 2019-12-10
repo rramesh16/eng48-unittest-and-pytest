@@ -3,7 +3,15 @@
 
 ### TD
 What is it?
+- Test Driven Development
+
 How do you implement it?
+  1. Write a test
+  2. Confirm the test fails
+  3. Write code to pass test
+  4. Confirm test passes
+  5. Refactor
+  6. Repeat 
 
 ### Unit Testing
 What is it?
