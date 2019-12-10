@@ -1,7 +1,7 @@
 # TDD and Unit Testing
 ## Tools to be used: Unittest and Pytest
 
-### TD
+### TDD
 What is it?
 - Test Driven Development
 
